@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Standard Quick Calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Standard_Quick_Calculator_jar</output-path>
+    <root id="archive" name="Standard Quick Calculator.jar">
+      <element id="module-output" name="Standard Quick Calculator" />
+      <element id="extracted-dir" path="C:/Matrial Design/jfoenix.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
